@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    gap: 100px;
+    position: absolute;
+    top: 43%;
+    left: 21;
+  
+}
+.imgdiv{
+    background-image: url('../images/food.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.maincontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
